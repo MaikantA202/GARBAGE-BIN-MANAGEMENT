@@ -52,7 +52,7 @@
            }  
       </style>  
  </head>  
- <body>  
+ <body style="background-color: lavenderblush;">  
  <div class="card">  
     <h2>Bin Data</h2>
       <table border="1px">  
